@@ -68,7 +68,7 @@ print("감정분석결과")
 display(df)
 
 
-#Step 6. 파이차트 시각화
+#Step 6.: 파이차트 시각화
 import matplotlib.pyplot as plt
 !pip install koreanize-matplotlib
 import koreanize_matplotlib  # 한글 폰트 적용
